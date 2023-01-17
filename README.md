@@ -1,4 +1,4 @@
-Beschreibung der Produkte
+Schriftliche Beschreibung der Produkte
 
 Skizziere ein Design Mock up des Shops
 
